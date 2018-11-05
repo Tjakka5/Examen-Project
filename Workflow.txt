@@ -1,0 +1,27 @@
+Plan van aanpak
+
+Analyse:
+	Requirements document (Deliverables). -> Handtekening
+	Test plan
+
+Ontwerp:
+	Technical design (Hoe) :
+		Klassen diagram / Object diagram / Sequence diagram / State transition diagram (UML, ASTAH)
+	Functional design (Wat) :
+		Userstories
+	Test plan
+
+Implementatie:
+	Het programmeren
+
+Testen:
+	Test plan
+		User test
+		Unit test
+		Integration test
+
+Onderhoud:
+	Verwerken van test resultaten 
+		Bugs
+		User feedback
+	Code documentation
